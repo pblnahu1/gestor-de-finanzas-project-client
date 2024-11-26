@@ -48,7 +48,7 @@ export default function Header() {
             <Theme />
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl" onClick={handleStartHomeClick}><DollarIcon />Your Finance</a>
+        <a className="btn btn-ghost text-base lg:text-xl" onClick={handleStartHomeClick}><DollarIcon />Your Finance</a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">

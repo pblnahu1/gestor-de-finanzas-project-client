@@ -1,6 +1,6 @@
 export const Search = () => {
   return (
-    <label className="input bg-[#F1F5FB] rounded-3xl flex items-center md:w-0 lg:w-[50%] lg:ml-0 ml-10 h-10">
+    <label className="input bg-[#F1F5FB] rounded-3xl flex items-center md:w-0 lg:w-[50%] lg:ml-0 h-10">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 16 16"
