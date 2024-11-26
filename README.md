@@ -1,6 +1,8 @@
 # Gestor de Finanzas - Frontend
 # Stack: React JS, TailwindCSS/DaisyUI
 
+![alt text](client/public/gestor-finanzas.webp "Principal")
+
 ## Proceso de desarrollo (Puede tener cambios a futuro)
 
 ### LÓGICA (puede cambiar):
