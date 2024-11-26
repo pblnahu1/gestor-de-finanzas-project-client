@@ -18,13 +18,14 @@ export default function ContentHero() {
           <div className="max-w-md">
             <h1 className="text-5xl font-bold mb-4">¡Descubre el poder de tus finanzas!</h1>
             <p className="text-lg py-6">
-              ¿Sientes que tus gastos te abruman? Con un gestor de finanzas a tu lado, podrás transformar tu economía personal. Te ayudamos a planificar, optimizar y alcanzar tus metas financieras con estrategias efectivas. No más preocupaciones, solo resultados. Toma el control de tu futuro hoy mismo y haz que tu dinero cuente. ¡Es hora de construir la vida que deseas!
+              ¿Sientes que tus gastos te abruman? Con un gestor de finanzas a tu lado, podrás transformar tu economía personal. Te ayudamos a planificar, optimizar y alcanzar tus metas financieras con estrategias efectivas. No más preocupaciones, solo resultados. Toma el control de tu futuro hoy mismo y haz que tu dinero cuente. 
             </p>
+            
             <button
               className="bg-black text-white px-6 py-4 rounded-lg"
               onClick={handleStartClick}
             >
-              Comenzar!
+              Comenzar
             </button>
 
           </div>
